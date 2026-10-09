@@ -9,6 +9,10 @@ English summary at the bottom.
 nicht erinnert** — ein `grep` in die mitgelieferten Extrakte liefert in einer Sekunde einen Beleg,
 wo ein Name aus dem Gedächtnis eine Vermutung wäre.
 
+👉 **Ausführliche Beschreibung und Betriebsanleitung: [HANDBUCH.md](HANDBUCH.md)** (auch als
+[PDF](HANDBUCH.pdf)). Kapitel 0 ist die Kurzfassung für Entscheider, ab Kapitel 4 die Anleitung
+für Entwickler.
+
 ## Was drin ist
 
 | Skill | Was er kann | Umfang |

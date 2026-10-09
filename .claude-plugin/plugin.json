@@ -1,6 +1,6 @@
 {
   "name": "bc-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Business Central / AL für Claude Code: Standard-Nachschlagewerk (Tabellen, Felder, Objekt-IDs, Ereignisse aus BC 28.3), 254 destillierte AL-Muster mit Fallstricken, korrigierter AL-Leitfaden.",
   "author": {
     "name": "Seif Amiri",
