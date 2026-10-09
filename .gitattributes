@@ -1,0 +1,7 @@
+# Alle Textdateien mit LF - auch auf Windows. Die grep-Muster der Nachschlagedateien
+# (z. B. "^1|18$") brauchen LF; mit CRLF wuerde "$" vor dem \r nicht treffen.
+* text=auto eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf

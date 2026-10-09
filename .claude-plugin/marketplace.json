@@ -1,0 +1,27 @@
+{
+  "name": "claude-bc-skills",
+  "owner": {
+    "name": "Seif Amiri",
+    "url": "https://github.com/seifamiri36-prog"
+  },
+  "metadata": {
+    "description": "Business Central / AL skills for Claude Code: BC 28 standard lookup extracts (tables, fields, object IDs, event hooks), 254 distilled AL patterns with pitfalls, corrected AL guideline.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bc-skills",
+      "source": "./",
+      "description": "Business Central / AL für Claude Code: Standard-Nachschlagewerk (1.364 Tabellen, 23.370 Felder, 14.183 Objekt-IDs, 23.629 Ereignisse), 254 destillierte AL-Muster mit Fallstricken (bc-al-cookbook), korrigierter AL-Leitfaden.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Seif Amiri",
+        "url": "https://github.com/seifamiri36-prog"
+      },
+      "homepage": "https://github.com/seifamiri36-prog/claude-bc-skills",
+      "license": "MIT",
+      "keywords": ["business-central", "dynamics-365", "al", "erp", "microsoft", "odata", "api"],
+      "category": "development"
+    }
+  ]
+}

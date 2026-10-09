@@ -1,0 +1,12 @@
+{
+  "name": "bc-skills",
+  "version": "1.0.0",
+  "description": "Business Central / AL für Claude Code: Standard-Nachschlagewerk (Tabellen, Felder, Objekt-IDs, Ereignisse aus BC 28.3), 254 destillierte AL-Muster mit Fallstricken, korrigierter AL-Leitfaden.",
+  "author": {
+    "name": "Seif Amiri",
+    "url": "https://github.com/seifamiri36-prog"
+  },
+  "repository": "https://github.com/seifamiri36-prog/claude-bc-skills",
+  "license": "MIT",
+  "keywords": ["business-central", "dynamics-365", "al", "erp", "microsoft", "odata", "api"]
+}
